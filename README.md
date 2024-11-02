@@ -1,5 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/7e25194ecc4261fc12a3d4a4d30b8fee/f705a19601ee60e4-88/s1280x1920/07afcf2b80b966bf1df18a00e1e7db2d10457a01.gifv)
 # 👋 Hi, I'm Shreyash!
+<img align='right' width='400' src='https://i.imgur.com/QbkK4uh.gif'/>
 <h3>Enthusiastic Software Developer And UI/UX Designer</h3>
 
 - 🐧 I use arch **btw**
