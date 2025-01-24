@@ -1,6 +1,7 @@
-![MasterHead](https://64.media.tumblr.com/9c4fb740f79b45c06bf05eae5dcb76c5/c361378946ed0fae-a1/s640x960/7dff81c07c3a9a0ac8eb7bacb6a7b3d990c6e8e0.gif)
+<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="800" height="auto">
+
 # 👋 Hi, I'm Shreyash!
-<img align='right' width='400' src='https://i.imgur.com/QbkK4uh.gif'/>
+<img align='right' width='400' src='https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif'/>
 <h3>Enthusiastic Software Developer And UI/UX Designer</h3>
 
 - 🐧 I use arch **btw**
