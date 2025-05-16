@@ -6,9 +6,9 @@
 
 - 🐧 I use arch **btw**
 
-- 💭 Currently learning about **full stack development**
+- 💭 Currently learning about **Web Pentesting**
 
-- 💬 Ask me about **React Native, Linux**
+- 💬 Ask me about **Linux, Webs**
 
 - ✉️ Contact Me at **wale11shreyash@gmail.com** <br>
 
