@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shreyash!
 <img align='right' width='400' src='https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif'/>
-<h3>Enthusiastic Software Developer And UI/UX Designer</h3>
+<h3>Inceptive Cybersecurity Analyst | Reverse Engineering Aficionado</h3>
 
 - 🐧 I use arch **btw**
 
